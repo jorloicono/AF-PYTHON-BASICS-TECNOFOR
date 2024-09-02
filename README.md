@@ -2,15 +2,15 @@
 
 ## Introduction to Python
 
--  What is Python?
--  Installing Python
--  Development environments (IDEs)
+-  What is Python?: https://realpython.com/what-is-python/
+-  Installing Python: https://realpython.com/installing-python/
+-  Development environments (IDEs): https://realpython.com/python-ides-code-editors-guide/
 
 ## Python Programming Fundamentals
 
--  Variables and data types
--  Operators
--  Control structures (if, else, loops)
+-  Variables and data types: https://www.programiz.com/python-programming/variables-datatypes
+-  Operators: https://www.w3schools.com/python/python_operators.asp
+-  Control structures (if, else, loops): https://www.tutorialspoint.com/python/python_decision_making.htm
 
 ## Functions and Modularity
 
