@@ -1,5 +1,8 @@
 # AF-PYTHON-BASICS-TECNOFOR
 
+- DAY 1: https://colab.research.google.com/drive/1tmuMP41jnUZmEISbkPxY6HXps9Vszw8m?usp=sharing
+
+
 ## Introduction to Python
 
 -  What is Python?: https://realpython.com/what-is-python/
