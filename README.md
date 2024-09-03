@@ -17,16 +17,16 @@
 
 ## Functions and Modularity
 
--  Function definition and invocation
--  Parameters and arguments
--  Modularity and code reuse
+-  Function definition and invocation: https://www.geeksforgeeks.org/python-functions/ 
+-  Parameters and arguments: https://www.youtube.com/watch?v=i_ZEaE5vfE0
+-  Modularity and code reuse: https://www.tiny.cloud/blog/modular-programming-principle/
 
 ## Data Structures in Python
 
--  Lists
--  Tuples
--  Dictionaries
--  Sets
+-  Lists: https://www.w3schools.com/python/python_lists.asp
+-  Tuples: https://realpython.com/python-tuple/
+-  Dictionaries: https://realpython.com/courses/python-basics-dictionaries/
+-  Sets: https://www.w3schools.com/python/python_sets.asp
 
 ## File Handling
 
