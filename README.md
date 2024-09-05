@@ -2,6 +2,7 @@
 
 - DAY 1: https://colab.research.google.com/drive/1tmuMP41jnUZmEISbkPxY6HXps9Vszw8m?usp=sharing
 - DAY 2: https://colab.research.google.com/drive/1Om4EtX1hLa7Jn8GgFxY3dKMT8s53qIk7?usp=sharing
+- DAY 3: https://colab.research.google.com/drive/1UbrTrTBlA02lbOumo78TlSsFPx7Nj3kg?usp=sharing
 
 ## Introduction to Python
 
