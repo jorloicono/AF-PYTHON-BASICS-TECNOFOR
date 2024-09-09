@@ -1,4 +1,6 @@
 # AF-PYTHON-BASICS-TECNOFOR
+
+- DAY 1: https://colab.research.google.com/drive/1-VGbE2oR5uuhnm8TKiwaWPqEXN6-SuF4?usp=sharing
   
 ## Introduction to Python
 
